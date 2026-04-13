@@ -4,8 +4,8 @@ example to use api
 
 run in localhost
 
-http://127.0.0.1:5000/call/?number=201228304562
+http://127.0.0.1:5000/call/?phone=201228304562
 
 run in vercel.app
 
-https://adelfox-spam-call-api.vercel.app/call/?phone=201228304562
+https://adelfox-api-spam-call.vercel.app/call?phone=201093287693
